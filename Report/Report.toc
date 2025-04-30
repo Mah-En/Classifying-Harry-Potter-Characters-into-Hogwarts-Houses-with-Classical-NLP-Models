@@ -1,0 +1,29 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {paragraph}{Research questions.}{3}{section*.2}%
+\contentsline {paragraph}{Contributions.}{3}{section*.3}%
+\contentsline {section}{\numberline {2}Related Work}{3}{section.2}%
+\contentsline {section}{\numberline {3}Data Collection}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Corpus and entity harvest}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Train–dev–test split}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Exploratory Analysis}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Name length and tokenisation}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Lexical house markers}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Orthographic distance}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Feature Engineering}{5}{section.5}%
+\contentsline {paragraph}{Vector spaces.}{5}{section*.4}%
+\contentsline {paragraph}{Rationale.}{5}{section*.5}%
+\contentsline {section}{\numberline {6}Modelling Methodology}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Base classifiers and grids}{5}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Soft-voting ensemble}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Validation protocol}{6}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Results}{6}{section.7}%
+\contentsline {paragraph}{Outer-fold aggregates.}{6}{table.3}%
+\contentsline {paragraph}{Held-out test split (1 231 names).}{6}{section*.7}%
+\contentsline {paragraph}{Confusion summary.}{6}{section*.8}%
+\contentsline {paragraph}{Inference benchmark.}{6}{section*.9}%
+\contentsline {section}{\numberline {8}Error Analysis}{7}{section.8}%
+\contentsline {section}{\numberline {9}Fairness and Ethics}{7}{section.9}%
+\contentsline {section}{\numberline {10}Conclusion}{7}{section.10}%
+\contentsline {paragraph}{Future work.}{7}{section*.10}%
+\contentsline {section}{\numberline {A}Named-Entity Harvest (code fragment)}{8}{appendix.A}%
