@@ -5,7 +5,7 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ```bash
 git clone https://github.com/<your-user>/HP_House_Classifier.git
@@ -39,7 +39,7 @@ python -m spacy download en_core_web_lg   # if not auto-installed
 
 ---
 
-## ▶️ Quick Start
+##  Quick Start
 
 ```bash
 # 1️⃣ harvest entities   (≈ 10 s)
@@ -55,7 +55,7 @@ python src/inference.py --model model.pkl --name "Luna Lovegood"
 
 ---
 
-## 📈 Key Results
+##  Key Results
 
 | Metric (test set, 1 231 names) | Value |
 |--------------------------------|-------|
@@ -69,16 +69,16 @@ weighted soft-vote (0.15 : 0.45 : 0.40).*
 
 ---
 
-## 🔍 Insights
+##  Insights
 
 * **Lexical cues dominate**: “weasley”, “potter” ⇒ Gryffindor; “malfoy”, “crabbe” ⇒ Slytherin.  
-* **Ravenclaw ↔ Hufflepuff overlap** causes 75 % of residual errors.  
+* **Ravenclaw ↔ Hufflepuff overlap** causes 75 \% of residual errors.  
 * Character 3-5-gram TF-IDF boosts recall for rare names without inflating the feature space.  
 * Full pipeline runs on edge devices (< 1 MB, < 5 ms).
 
 ---
 
-## 🛠  Commands
+##   Commands
 
 | Task | Command |
 |------|---------|
@@ -89,7 +89,7 @@ weighted soft-vote (0.15 : 0.45 : 0.40).*
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [ ] Add role-based tokens (“professor”, “captain”) to cut staff errors  
 - [ ] Distil ensemble into a single fastText model for micro-controllers  
@@ -97,7 +97,7 @@ weighted soft-vote (0.15 : 0.45 : 0.40).*
 
 ---
 
-## 📄 License
+## License
 
 MIT — do what you wish, but cite the original *Harry-Potter* work and this repo if you build on it.  
 
