@@ -559,10 +559,77 @@ Package hyperref Info: Link coloring ON on input line 37.
 \c@lstlisting=\count343
 LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/loca)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count341
+\scratchdimen=\dimen199
+\scratchbox=\box70
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count344
+\MPscratchDim=\dimen256
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-d
+ictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 41.
+Package hyperref Info: Link coloring ON on input line 41.
+\@outlinefile=\write3
+\openout3 = `Report.out'.
+
+\c@lstlisting=\count347
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -573,111 +640,52 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-(./Report.toc)
+No file Report.toc.
 \tf@toc=\write4
 \openout4 = `Report.toc'.
 
 
 
 [2]
-
-LaTeX Warning: Citation `Liu2013' on page 3 undefined on input line 107.
-
-
-LaTeX Warning: Citation `Juola2008' on page 3 undefined on input line 107.
-
-
-LaTeX Warning: Citation `Siew2019' on page 3 undefined on input line 108.
-
-
-LaTeX Warning: Citation `Peng2003' on page 3 undefined on input line 109.
-
-
-LaTeX Warning: Citation `Kim2014' on page 3 undefined on input line 110.
-
-
-LaTeX Warning: Citation `He2014' on page 3 undefined on input line 112.
-
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 125.
+put line 106.
 
 
 [3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }]
 
-[4
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.176 \subsection
-                 {Lexical house markers}]
-
-[5
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.236 \[
-        ]
-
-[6
-pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.299 \end{center}
-                  ]
-Overfull \hbox (254.51068pt too wide) in paragraph at lines 349--352
-\T1/cmr/m/n/12 Clone [][]$\T1/cmtt/m/n/12 https : / / github . com / Mah-[]En /
- Classifying-[]Harry-[]Potter-[]Characters-[]into-[]Hogwarts-[]Houses-[]with-[]
-Classical-[]NLP-[]Models$[][]\T1/cmr/m/n/12 ,
- []
+LaTeX Warning: File `hp_dist_tokens.png' not found on input line 132.
 
 
+./Report.tex:132: Package pdftex.def Error: File `hp_dist_tokens.png' not found
+: using draft setting.
 
-[7] (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/09/23 1.10c listings language file
-)
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 359.
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 ...[width=0.8\textwidth]{hp_dist_tokens.png}
+                                                  
+? 
+./Report.tex:132: Emergency stop.
+ ...                                              
+                                                  
+l.132 ...[width=0.8\textwidth]{hp_dist_tokens.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-
-[8] (./Report.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  ABB93360225FE3CA6AD58859726B8196;2856.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 18516 strings out of 473190
- 342345 string characters out of 5715801
- 966519 words of memory out of 5000000
- 41486 multiletter control sequences out of 15000+600000
- 583099 words of font info for 99 fonts, out of 8000000 for 9000
+ 19737 strings out of 473190
+ 371010 string characters out of 5715801
+ 747743 words of memory out of 5000000
+ 42766 multiletter control sequences out of 15000+600000
+ 577461 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,80p,306b,1259s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+ 75i,7n,80p,306b,1037s stack positions out of 10000i,1000n,20000p,200000b,200000s
+./Report.tex:132:  ==> Fatal error occurred, no output PDF file produced!
+25/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local
